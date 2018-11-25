@@ -1,0 +1,12 @@
+---
+title: "I have moved my site to lichenhao.netlify.com"
+author: "Chenhao Li"
+date: 2018-11-25
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My site was moved to a new domain [here](https://lichenhao.netlify.com/).
